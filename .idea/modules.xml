@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise1/Behavioural Pattern/AdaptiveLearningSystem/AdaptiveLearningSystem.iml" filepath="$PROJECT_DIR$/Exercise1/Behavioural Pattern/AdaptiveLearningSystem/AdaptiveLearningSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Educational Initiatives.iml" filepath="$PROJECT_DIR$/.idea/Educational Initiatives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1/Behavioural Pattern/QuizQuestionFactory/QuizQuestionFactory.iml" filepath="$PROJECT_DIR$/Exercise1/Behavioural Pattern/QuizQuestionFactory/QuizQuestionFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1/Behavioural Pattern/StudentProgressObserver/StudentProgressObserver.iml" filepath="$PROJECT_DIR$/Exercise1/Behavioural Pattern/StudentProgressObserver/StudentProgressObserver.iml" />
+    </modules>
+  </component>
+</project>
